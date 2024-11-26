@@ -40,3 +40,17 @@ The layout and content of this website have been designed to mimic a typical Raz
 - **Responsive Design Principles**: The website utilizes CSS media queries to ensure the design adapts seamlessly across all screen sizes and devices, from desktop monitors to smartphones.
 
  
+# Razer Website Project - Video Showcase
+
+This project includes a video walkthrough of the Razer Website. The video highlights the design and functionality of the site, giving an overview of its features such as the navigation bar, product showcases, and interactive elements. It demonstrates how the site delivers a seamless shopping experience for Razer customers, focusing on its sleek, user-friendly interface and high-quality product visuals.
+
+### Watch the Video:
+[![Razer Website Walkthrough](https://img.youtube.com/vi/1dj6WLlhZWo/maxresdefault.jpg)](https://youtu.be/1dj6WLlhZWo?feature=shared)
+
+In this video, you will see the website in action, including:
+- Navigation through different product categories.
+- Showcase of exclusive Razer products.
+- Interactive elements like "Learn More" and "Buy" buttons.
+- High-quality product imagery and promotional sections.
+
+The video is a great resource for understanding how the Razer website is designed to engage and convert visitors into customers.
