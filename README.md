@@ -39,25 +39,4 @@ The layout and content of this website have been designed to mimic a typical Raz
 - **Google Fonts**: To integrate modern and readable typography, specifically the "Oswald" font, ensuring a consistent brand aesthetic across the site.
 - **Responsive Design Principles**: The website utilizes CSS media queries to ensure the design adapts seamlessly across all screen sizes and devices, from desktop monitors to smartphones.
 
-### How to Run Locally
-
-To view and test the website locally:
-
-1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
-   ```bash
-   git clone <repository-url>
-Open the index.html File: Navigate to the folder where the repository is cloned, and open the index.html file in your preferred web browser.
-bash
-Copy code
-open index.html
-You will now see the full Razer website interface, complete with product displays, navigation, and responsive design.
-Future Enhancements
-Shopping Cart Integration: Although the site includes a shopping cart icon, integrating an actual e-commerce functionality with a backend for user orders, payments, and shipping is a potential enhancement.
-User Account System: Implementing user login and account management features could allow users to track their orders, preferences, and wishlist items.
-Live Chat Support: Adding live chat support can provide real-time assistance to users navigating the site.
-Video Overview
-For a deeper understanding of the website's functionality and design, check out the following video:
-Watch the Video
-
-Conclusion
-This project is an excellent foundation for building a modern, e-commerce-focused website for Razer, combining sleek design elements, interactive features, and responsive layouts. While this version of the website is a static HTML and CSS implementation, it can be expanded with JavaScript functionality or integrated with a backend system to create a fully operational online store. Whether you’re a Razer fan, gamer, or web developer, this website showcases how the digital experience can be enhanced through clean, engaging design and functionality.
+ 
